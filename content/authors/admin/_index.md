@@ -50,9 +50,7 @@ social:
 #- icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -61,4 +59,4 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I'm Malte. I am a data scientist with a focus on #rstats and football analytics.  On this page i am going to share my public projects in datascience and dataviz. This page is a headless page generated with Hugo. 
