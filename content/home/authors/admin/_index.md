@@ -4,7 +4,7 @@ title: Malte Schmielewski
 
 # Username (this should match the folder name)
 authors:
-- malte
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,6 +51,8 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
