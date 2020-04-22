@@ -18,7 +18,7 @@ role: Data Scientist and football enthusiast
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I love Schalke 04
+bio: ...
 
 interests:
 - Data Science
