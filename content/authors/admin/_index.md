@@ -21,9 +21,10 @@ role: Data Scientist and football enthusiast
 bio: ...
 
 interests:
-- Data Science
-- Football Analytics
-- Data Viz
+courses:
+- course: B.Sc. Economics
+  institution: University Paderborn
+  year: 2012
 
 education:
   courses:
@@ -59,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Malte. I am a data scientist with a focus on #rstats and football analytics.  On this page i am going to share my public projects in datascience and dataviz. This page is a headless page generated with Hugo. 
+Hi! I'm Malte. I am a data scientist with a focus on #rstats and football analytics.  On this page i am going to share my public projects in datascience and dataviz. This page is a headless page generated with Hugo.
