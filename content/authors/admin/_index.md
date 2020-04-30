@@ -20,17 +20,17 @@ role: Data Scientist and football enthusiast
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
-interests:
-courses:
-- course: B.Sc. Economics
-  institution: University Paderborn
-  year: 2012
+#interests:
+#courses:
+#- course: B.Sc. Economics#
+#  institution: University Paderborn
+#  year: 2012
 
-education:
-  courses:
-  - course: B.Sc. Economics
-    institution: University Paderborn
-    year: 2012
+#education:
+#  courses:
+#  - course: B.Sc. Economics
+#    institution: University Paderborn
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
