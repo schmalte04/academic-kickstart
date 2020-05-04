@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Projects"
-  url = "#tidytuesdays"
+  url = "#project"
   weight = 30
 
 [[main]]
