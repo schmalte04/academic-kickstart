@@ -9,11 +9,12 @@ TidyTuesday is a social data vizualisation project where the community works on 
 
 
 
-##### tidytuesdays
+##### R & ggplot2
 
+###### TidyTuesday
 TidyTuesday is a social data vizualisation project where the community works on vizualisations using public available datasets and R Graphic engine ggplot2
 
 
-##### football related works
+#### football related works
 
 TidyTuesday is a social data vizualisation project where the community works on vizualisations using public available datasets and R Graphic engine ggplot2
