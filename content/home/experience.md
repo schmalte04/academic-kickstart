@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Business Development
+  * Production
+  * Management
 """
 +++
