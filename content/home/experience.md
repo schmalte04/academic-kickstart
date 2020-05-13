@@ -30,14 +30,6 @@ date_format = "Jan 2006"
   * Analysing
   * Modelling
   * Deploying
-  """
 
-[[experience]]
-  title = "Bachelor of Science"
-  company = "Universität Paderborn"
-  company_url = ""
-  location = "Germany"
-  date_start = "2012-07-01"
-  date_end = "2015-06-31"
 
 +++
