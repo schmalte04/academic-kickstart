@@ -2,7 +2,8 @@
 title: "Bundesliga Simulation"
 date: 2020-04-30T10:25:13+02:00
 ---
- During the Corona Pandemic 2020 the football world was standing still from March 2020 onwards with 9-12 matchdays left in Europes Top 5 leagues. I used that moment to work on a simulation to predict the season finale and the final table of each Top 5 league. All results got published through OneFootball's newsroom as well as OneFootballs Instragram Account. We released press-releases in five different languages which led some reputated and known Italian newspapers like the Gazetta and some Spanish Press to publish the model. Links to the relased can be found at the end of the blog post. In the following I will describe the method and the Tech Stack. Special Thanks to my Onefootball colleague Marc Schmidgall, who took care about the PR and published the simulation.
+ During the Corona Pandemic 2020 the football world was standing still from March 2020 onwards with 9-12 matchdays left in Europes Top 5 leagues.
+ I used that moment to work on a simulation to predict the season finale and the final table of each Top 5 league. All results got published through OneFootball's newsroom as well as OneFootballs Instragram Account. We released press-releases in five different languages which led some reputated and known Italian newspapers like the Gazetta and some Spanish Press to publish the model. Links to the relased can be found at the end of the blog post. In the following I will describe the method and the Tech Stack. Special Thanks to my Onefootball colleague Marc Schmidgall, who took care about the PR and published the simulation.
 
 #### Method
 
@@ -32,5 +33,5 @@ https://www.gazzetta.it/Calcio/Serie-A/14-05-2020/and-the-winner-is-juventus-poi
 Goal.com (SP)
 https://www.goal.com/es/noticias/laliga-simulada-barcelona-campeon-espanyol-mallorca-y/1a82ugiqiihhc1two3x455w2yd
 
-Sport.es 
+Sport.es
 https://www.sport.es/es/noticias/barca/simulacion-laliga-barcelona-campeon-espanyol-mallorca-leganes-descienden-7959576
