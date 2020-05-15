@@ -24,18 +24,18 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = "Focused during University always on statistics and working since in my job on modelling, predicting and analyzing football matches."  
 
 [[feature]]
-  icon = "data"
+  icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = ""
+  description = "I work mainly in MYSQL. Always loved the great connection with R and dplyr."
 
   [[feature]]
     icon = "tasks"
     icon_pack = "fas"
     name = "Python"
-    description = "On may way to master it."
+    description = "R was always my first choice, but i started to use Python for some production projects."
 
 +++
