@@ -1,5 +1,5 @@
 ---
-title: "Bundesliga Simulation"
+title: "Season-End-Simulation"
 date: 2020-04-30T10:25:13+02:00
 ---
  During the Corona Pandemic 2020 the football world was standing still from March 2020 onwards with 9-12 matchdays left in Europes Top 5 leagues.
