@@ -1,6 +1,9 @@
 ---
 title: "Season-End-Simulation"
 date: 2020-04-30T10:25:13+02:00
+header:
+  image: "header_2.jpeg"
+  caption: ""
 ---
  During the Corona Pandemic 2020 the football world was standing still from March 2020 onwards with 9-12 matchdays left in Europes Top 5 leagues.
  I used that moment to work on a simulation to predict the season finale and the final table of each Top 5 league. All results got published through OneFootball's newsroom as well as OneFootballs Instragram Account. We released press-releases in five different languages which led some reputated and known Italian newspapers like the Gazetta and some Spanish Press to publish the model. Links to the relased can be found at the end of the blog post. In the following I will describe the method and the Tech Stack. Special Thanks to my Onefootball colleague Marc Schmidgall, who took care about the PR and published the simulation.
