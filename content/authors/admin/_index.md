@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Malte. I am a data scientist with a focus on #rstats and football analytics.  On this page i am going to share my public projects in datascience and dataviz. This page is generated with Hugo and the Academic template.
+I am a data scientist with a focus on #rstats and football analytics.  On this page i am going to share my public projects in datascience and data vizualisation. This page is generated with Hugo and the Academic template.
