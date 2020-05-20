@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist and football enthusiast / Schalke 04 supporter
+role: Data Scientist and football enthusiast
 
 # Organizations/Affiliations
 #organizations:
